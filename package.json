@@ -5,6 +5,9 @@
   "repository": "git@github.com:Kaito-hunter/Server.git",
   "author": "Kaito-hunter <z12roronoa@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.0"
